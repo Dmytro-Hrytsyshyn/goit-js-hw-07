@@ -9,3 +9,5 @@ input.addEventListener('input', () => {
     output.textContent = value;
   }
 });
+
+
